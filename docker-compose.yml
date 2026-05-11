@@ -1,7 +1,7 @@
 services:
     adguard: #service 1
         image: adguard/adguardhome
-        container_name: veilnet/adguard
+        container_name: veilnet-adguard
 
         ports:                  # hostport:containerport/
             - "53:53/tcp"       # port 53 host used for DNS, just match to container
