@@ -52,7 +52,7 @@ VeilNet does not replace good cybersecurity practices.
 
 
 
-\- To provide a subscription free, portable device that allows for a "cleaner" and more private web browsing experience. 
+\- To provide a subscription free, portable device that allows for a "cleaner" and more private web browsing experience.
 
 \- To learn  basic Linux OS handling on a real machine such as a Raspberry Pi rather than a virtual machine, as well as refining and discovering new IT/networking skillsets.
 
